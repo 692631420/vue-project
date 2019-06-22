@@ -1,0 +1,28 @@
+/* 这是初始化样式文件 */
+
+body,
+html {
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+p,
+ul,
+li,
+ol,
+dl,
+dd,
+dt,
+input,
+img {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
